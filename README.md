@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bryan
 - 👀 I’m interested in program synthesis, programming languages and theoretical CS
-- 🌱 I’m currently a senior at Yale-NUS and I will be a MComp candidate at NUS next year.
+- 🌱 I’m currently a senior at Yale-NUS and a MComp candidate at NUS. I will graduate with a MComp next year.
 - ✨ You can reach me at bryantanyh@gmail.com or bryantanyh@u.yale-nus.edu.sg
 
 
